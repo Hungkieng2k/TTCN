@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>News</title>
+</head>
+<body>
+    <div>
+        <input type="text" name="username" id="txtUsername" />
+        <input type="submit" id="btnSubmit" onclick="btnClick('loginButton');" />
+        <input type="submit" id="btnSubmit" onclick="btnClick('forgortPassButton');" />
+        <span class="text-danger"></span>
+    </div>
+    <script>
+
+        function btnClick(btnArg) {            
+            var check = $("#txtUsername").val();
+            if (isNaN(check) || check < 0) {
+                alert("Vui long nhap tai khoan");
+                return false;
+            }
+            document.getElementById("btnSubmit");
+        }
+
+        $("#btnSubmit")
+            .click(function () {
+            var check = $("#txtUsername").val();
+            if (isNaN(check) || check < 0) {
+                alert("Vui long nhap tai khoan");
+                return false;
+            }
+        });
+
+        $("#btnSubmit").click(function () {
+            alert("Click lan 2");
+
+        });
+    </script>
+</body>
+</html>

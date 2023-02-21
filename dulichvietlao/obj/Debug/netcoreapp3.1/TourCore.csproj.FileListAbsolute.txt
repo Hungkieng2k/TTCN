@@ -1,0 +1,832 @@
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.exe
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csprojAssemblyReference.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfoInputs.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.input.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.output.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorCoreGenerate.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.Manifest.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.xml
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.deps.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.dev.json
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CopyComplete
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\ShowInTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tour\Default.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\Index.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTourDetail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\TourDetail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\BookingTour\BookingTour.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csprojAssemblyReference.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CoreCompileInputs.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfoInputs.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfo.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.exe
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.deps.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.dev.json
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.input.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.output.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorCoreGenerate.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\BookingTour\BookingTour.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tour\Default.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTour.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTourDetail.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\Index.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\TourDetail.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CopyComplete
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.Manifest.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.xml
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.genruntimeconfig.cache
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Login.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\ShowInTourPartial.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantityMember.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantitesPartial.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Count\Default.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Travel.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\dev1\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddStaff.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csprojAssemblyReference.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfoInputs.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.exe
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.deps.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.dev.json
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.input.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.output.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorCoreGenerate.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddStaff.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantitesPartial.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantityMember.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowAllTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Travel.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\BookingTour\BookingTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Login.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Count\Default.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tour\Default.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTourDetail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\Domestic.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\TourDetail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CopyComplete
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.Manifest.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.xml
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.genruntimeconfig.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\National.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\InsertTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AllStaff.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\FindTourPartial.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\FindTour.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SeeContractDetail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ReportMail.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CoreCompileInputs.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Payment.cshtml.g.cs
+C:\Users\Tan\source\repos\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditContractDetail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.exe
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.deps.json
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.json
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.dev.json
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfoInputs.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfo.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.Manifest.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.xml
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\TourCore.styles.css
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.input.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.output.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorCoreGenerate.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddStaff.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AllStaff.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditContractDetail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\InsertTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Payment.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantitesPartial.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\QuantityMember.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ReportMail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\SeeContractDetail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ShowAllTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Travel.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\BookingTour\BookingTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Login.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Count\Default.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tour\Default.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTourDetail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\Domestic.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\FindTour.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\FindTourPartial.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\National.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\TourDetail.cshtml.g.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cs
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.Views.pdb
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CopyComplete
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.dll
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.pdb
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.genruntimeconfig.cache
+C:\Users\HUNG\Desktop\doan\TourCore\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.AssemblyReference.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.exe
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.deps.json
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.json
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.runtimeconfig.dev.json
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.pdb
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\TourCore.Views.pdb
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfoInputs.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.AssemblyInfo.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CoreCompileInputs.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorAssemblyInfo.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.Manifest.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\staticwebassets\TourCore.StaticWebAssets.xml
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\TourCore.styles.css
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.input.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.TagHelpers.output.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorCoreGenerate.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Tour\Default.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.RazorTargetAssemblyInfo.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.Views.pdb
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.CopyComplete
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.dll
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.pdb
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.genruntimeconfig.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutTour.cshtml.g.cs
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\TourCore.csproj.AssemblyReference.cache
+E:\Thực tập chuyên ngành\TourCore\TourCore\obj\Debug\netcoreapp3.1\Razor\Views\Tour\Domestic.cshtml.g.cs

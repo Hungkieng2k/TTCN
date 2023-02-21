@@ -1,0 +1,19 @@
+﻿@using Dulichvietlao.Models.ViewModels
+@{
+    string member = ViewBag.Session;
+}
+<ul class="menu ml-auto mt-1">
+    <li class="active"><a href="@Url.Action("Index","Home")">Trang chủ</a></li>
+    <li class="active"><a href="@Url.Action("Domestic","Tour")">Du lịch Việt</a></li>
+    <li class="active"><a href="@Url.Action("National","Tour")">Du lịch Lào</a></li>
+    @if (ViewBag.Session != null)
+    {
+        <li class="active"><a>Chào @member</a></li>
+        <li class="active"><a href="@Url.Action("Logout","Home")">Đăng xuất</a></li>
+    }
+    else
+    {
+        <li class="active"><a href="@Url.Action("Login", "Home")">Đăng nhập</a></li>
+        <li class="active"><a href="@Url.Action("Register", "Home")">Đăng ký</a></li>
+    }
+</ul>
